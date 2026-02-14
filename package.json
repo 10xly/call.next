@@ -1,0 +1,44 @@
+{
+  "name": "node-call.next",
+  "version": "1.0.0",
+  "description": "Call .next() on generators.",
+  "keywords": [
+    "next",
+    "generator",
+    "iterator",
+    "call.then",
+    "montagemtomada",
+    "is-generator-function",
+    "p-is-promise",
+    "jsfruit",
+    "high-availibility-testing"
+  ],
+  "homepage": "https://github.com/10xly/call.next#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/call.next/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/call.next.git"
+  },
+  "license": "MIT",
+  "author": "10x'ly Made",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@positive-numbers/one": "^3.0.0",
+    "as-array": "^2.0.0",
+    "basic-functions": "^1.0.6",
+    "construct-new": "^2.0.5",
+    "es-error-intrinsics": "^1.0.1",
+    "es-logical-not-operator": "^1.0.0",
+    "function.apply-x": "^1.0.0",
+    "is-generator": "^1.0.3",
+    "primitive-value-null": "^1.0.0",
+    "return-arguments": "^1.0.2",
+    "uncurry-x": "^1.0.1"
+  }
+}
