@@ -1,6 +1,6 @@
 {
   "name": "node-call.next",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Call .next() on generators.",
   "keywords": [
     "next",
@@ -32,7 +32,7 @@
     "@positive-numbers/one": "^3.0.0",
     "as-array": "^2.0.0",
     "basic-functions": "^1.0.6",
-    "construct-new": "^2.0.5",
+    "construct-new": "2.0.5",
     "es-error-intrinsics": "^1.0.1",
     "es-logical-not-operator": "^1.0.0",
     "function.apply-x": "^1.0.0",
